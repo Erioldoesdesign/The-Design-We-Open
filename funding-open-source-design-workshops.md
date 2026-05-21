@@ -10,6 +10,8 @@ Of course, all OSS isn't focused directly on these direct 'for good' purposes fo
 
 These workshops evolved through the years, continuing to be delivered at design events and conferences internationally (as recently as [2025 at Design Matters Tokyo](https://www.unprinted.design/articles/design-matters-tokyo-2025-oss-workshop/) 
 
+Only two conferences we delivered a workshop at had the workshop as an additional and seperate ticket price. We tried to negotiate this to not be the case but the conference refused. One of these two was an entire 6 hour workshop that ran a day before the official conference so they needed to charge in order to book the room and AV equipment. The other conference was a 5 hour workshop on a dedicated workshops day 0 of the conference.
+
 The most recent workshops have circled back to direct civic technology, internet freedom and censorship circumvention technology but hosted at international OSS conference like COSCUP with the [Design We Open](https://github.com/Erioldoesdesign/The-Design-We-Open) project. This was funded by The [Open Technology Fund](https://www.opentech.fund/) by way of the workshop facilitator's employment at [Superbloom Design](https://superbloom.design/).
 
 
@@ -24,7 +26,17 @@ Anybody should be able to learn about OSS, use OSS and contribute back to OSS an
 Since 2019, the initial funding funding and the subsequent funding for other workshops this work has mostly been supported through unpaid, self-funded ways by dedicated volunteers. The demand for these workshops from those that participated has been high and each time we've gathered feedback participants would like more time, exercises and ways to join and participate in OSS design contributions.
 
 ## Impact the workshops have on OSS and Designers/Design
-To be written!
+
+Currently the impact that these workshops have on OSS and design/designers is anecdata. We have not previously had budget to assess document and detail the impact officially.
+
+What we do know is:
+1. Our workshops have always been attended. Both when they are pay a fee to participate as well as free to participate.
+2. Workshops work best when they are between 4 and 6 hours a day long. The are the most valuable when there are two days of 4 hours with a 'hack week' inbetween with structured exercises each day.
+3. Over 25 contributions have been made to OSS projects by designers and developers learning design skills over the years of workshops being delivered.
+4. A healthy number of designers explore OSS contribution post workshop and contribute to projects afterwards
+5. Designers are able to use the workshop OSS contributions in job applications and portfolios
+6. When the workshop structure allows for ideation of new ideas, some participants have 'founded' projects based on their ideas.
+7. When developer focus workshops have been delivered, we have upskilled between 30-50 developers in design skills through these design contributions to OSS workshops.  
 
 ## Funding workshops
 
